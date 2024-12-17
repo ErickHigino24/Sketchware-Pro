@@ -9,10 +9,10 @@
 [![Total downloads](https://img.shields.io/github/downloads/Sketchware-Pro/Sketchware-Pro/total)](https://github.com/Sketchware-Pro/Sketchware-Pro/releases)
 [![Repository Size](https://img.shields.io/github/repo-size/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro)
 
-Welcome to Sketchware Pro! Here you'll find the source code of many classes in Sketchware Pro and, most importantly, the place to contribute to Sketchware Pro.
+Bem vindo ao Sketchware Br
 
-## Building the App
-To build the app, you must use Gradle. It's highly recommended to use Android Studio for the best experience.
+## Faça um app
+Com esse mod você pode criar apps facilmente sem esforço agora traduzido e modificado
 
 There are two build variants with different features:
 
