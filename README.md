@@ -11,8 +11,8 @@
 
 Bem vindo ao Sketchware Br
 
-## Faça um app
-Com esse mod você pode criar apps facilmente sem esforço agora traduzido e modificado
+## Make an app
+You can make apps using easy and functional blocks
 
 There are two build variants with different features:
 
